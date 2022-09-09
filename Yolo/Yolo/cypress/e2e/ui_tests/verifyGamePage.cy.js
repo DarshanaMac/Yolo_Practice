@@ -23,9 +23,6 @@ describe('Verify game page features', () => {
         gamesPage.clickFilterBtn()
         gamesPage.clickFilterOption(filterOption)
         gamesPage.elements.filterButton().should('contain.text', "(1)")
-        // gamesPage.elements.gameTitleLabels()
-        // .each((item) => {
-        //     cy.wrap(item).should('contain.text', filterOption)
-        // })
+      
     })
 })
