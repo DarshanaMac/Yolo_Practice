@@ -1,8 +1,11 @@
 # Execution Guide
 
-## Step 1 - Clone the project
+## Step 1 - Clone the project and naviate below e2e folder
 
 ![image](https://user-images.githubusercontent.com/14839226/189306365-cca26fe7-981d-414d-a09e-20febd3227d3.png)
+
+![image](https://user-images.githubusercontent.com/14839226/189311114-cf001c61-6987-447c-91e0-7a6718b86f9f.png)
+
 
 ## Step 2 - Install relevant cypress libraries and dependencies
 npm install cypress --save-dev
